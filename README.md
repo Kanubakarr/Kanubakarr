@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kanubakarr
-- 👀 I’m interested in Java, C++
+- 👀 I’m interested in Java, C++, Angular, Javascript
 - 🌱 I’m currently learning Git and GitHub
 - 💞️ I’m looking to collaborate with programmers around the world
 - 📫 How to reach me bakarrstudent1@gmail.com
